@@ -25,10 +25,14 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 
+![arpa](<img/Screenshot 2025-03-24 142407.png>)
+
 
 From kali linux issue the command :
-sudo arpspoof -i eth0 -t <target system> <gateway>
+sudo arpspoof -i enp0s3 -t <target system> -r <gateway>
 ## OUTPUT:
+
+![spoofed](<img/Screenshot 2025-03-24 143632.png>)
 
 
  dsniff:
