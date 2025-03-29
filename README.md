@@ -30,13 +30,23 @@ In windows 7 give the command arp -a
 
 From kali linux issue the command :
 sudo arpspoof -i enp0s3 -t <target system> -r <gateway>
+
+
 ## OUTPUT:
 
 ![spoofed](<img/Screenshot 2025-03-24 143632.png>)
 
+FTP:
+
+### Output:
+
+![FTP](img/ftp.png)
 
  dsniff:
 
+### OUTPUT:
+
+![Dsniff](img/dsniff.png)
 
 
 
