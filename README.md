@@ -55,14 +55,14 @@ FTP:
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
-
+![wireshark ftp](<../../Screenshot at 2025-04-07 10-23-25.png>)
 
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
-
+![ettercap](img/ettercap.png)
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
