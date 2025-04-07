@@ -55,7 +55,7 @@ FTP:
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 
-![wireshark ftp](<../../Screenshot at 2025-04-07 10-23-25.png>)
+![wireshark](image.png)
 
 
 In Kali issue the following commands:
